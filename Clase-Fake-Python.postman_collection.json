@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "5901aaff-38e4-4768-a83d-b248e03013bb",
+		"_postman_id": "a1b2c3d4-e5f6-7890-a1b2-c3d4e5f67890",
 		"name": "Clase-Fake-Python",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "26757275"
+		"_exporter_id": "83972145"
 	},
 	"item": [
 		{
@@ -13,7 +13,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n        \"title\": \"Libro 1\",\r\n        \"price\": 4700.00,\r\n        \"description\": \"Descripción del Libro 1\",\r\n        \"category\": \"Libros\",\r\n        \"image\": \"imagen1.jpg\",\r\n        \"rating\": {\r\n            \"rate\": 4.50,\r\n            \"count\": 100\r\n        }\r\n    },\r\n    {\r\n        \"title\": \"Libro 2\",\r\n        \"price\": 5599.00,\r\n        \"description\": \"Descripción del Libro 2\",\r\n        \"category\": \"Libros\",\r\n        \"image\": \"imagen2.jpg\",\r\n        \"rating\": {\r\n            \"rate\": 4.00,\r\n            \"count\": 80\r\n        }\r\n    },\r\n    {\r\n        \"title\": \"Libro 3\",\r\n        \"price\": 999.00,\r\n        \"description\": \"Descripción del Libro 3\",\r\n        \"category\": \"Libros\",\r\n        \"image\": \"imagen3.jpg\",\r\n        \"rating\": {\r\n            \"rate\": 4.80,\r\n            \"count\": 120\r\n        }\r\n    }",
+					"raw": "{\r\n        \"title\": \"Pizza Margherita\",\r\n        \"price\": 4700.00,\r\n        \"description\": \"Descripción de la Pizza Margherita\",\r\n        \"category\": \"Pizzas\",\r\n        \"image\": \"imagen1.jpg\",\r\n        \"rating\": {\r\n            \"rate\": 4.50,\r\n            \"count\": 100\r\n        }\r\n    },\r\n    {\r\n        \"title\": \"Pizza Pepperoni\",\r\n        \"price\": 5599.00,\r\n        \"description\": \"Descripción de la Pizza Pepperoni\",\r\n        \"category\": \"Pizzas\",\r\n        \"image\": \"imagen2.jpg\",\r\n        \"rating\": {\r\n            \"rate\": 4.00,\r\n            \"count\": 80\r\n        }\r\n    },\r\n    {\r\n        \"title\": \"Pizza Vegana\",\r\n        \"price\": 999.00,\r\n        \"description\": \"Descripción de la Pizza Vegana\",\r\n        \"category\": \"Pizzas\",\r\n        \"image\": \"imagen3.jpg\",\r\n        \"rating\": {\r\n            \"rate\": 4.80,\r\n            \"count\": 120\r\n        }\r\n    }",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -172,7 +172,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n        \"title\": \"Libro 1\"\r\n    }",
+					"raw": "{\r\n        \"title\": \"Pizza Margherita\"\r\n    }",
 					"options": {
 						"raw": {
 							"language": "json"
